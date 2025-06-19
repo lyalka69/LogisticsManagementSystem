@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Type": "Грузовик",
+    "Capacity": 2000.0,
+    "Registration": "A123BC",
+    "Condition": "Хорошее"
+  },
+  {
+    "Id": 2,
+    "Type": "Фура",
+    "Capacity": 5000.0,
+    "Registration": "B456CD",
+    "Condition": "Отличное"
+  }
+]

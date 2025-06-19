@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Петр Петров",
+    "Contact": "petr@logistics.ru",
+    "ExperienceYears": 5,
+    "AssignedTransportId": 1
+  },
+  {
+    "Id": 2,
+    "FullName": "Сергей Сергеев",
+    "Contact": "sergey@logistics.ru",
+    "ExperienceYears": 8,
+    "AssignedTransportId": 2
+  }
+]

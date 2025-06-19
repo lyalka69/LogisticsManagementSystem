@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 1,
+    "ClientId": 1,
+    "CargoId": 1,
+    "DateCreated": "2025-05-21T22:27:55.9837901+03:00",
+    "Status": "Создан",
+    "TransportId": null,
+    "DriverId": null
+  }
+]
